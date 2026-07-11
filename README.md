@@ -1,2 +1,2 @@
-# Projects-C-
+# Projects-C++
 The repo containing C++ projects.
